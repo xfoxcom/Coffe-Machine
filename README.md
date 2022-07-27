@@ -1,2 +1,2 @@
-# Coffe-Machine
-Easy coffe machine kotlin example
+# Coffee-Machine
+Easy coffee machine kotlin example
